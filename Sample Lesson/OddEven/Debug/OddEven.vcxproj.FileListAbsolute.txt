@@ -1,0 +1,4 @@
+D:\DATA COLLECTION\DOCUMENTS\BSIT CODING\C++ LANGUAGE\BSIT 1-1\Coding Activity\OddEven\Debug\OddEven.vcxproj.AssemblyReference.cache
+D:\DATA COLLECTION\DOCUMENTS\BSIT CODING\C++ LANGUAGE\BSIT 1-1\Coding Activity\OddEven\Debug\OddEven.OddEven.resources
+D:\DATA COLLECTION\DOCUMENTS\BSIT CODING\C++ LANGUAGE\BSIT 1-1\Coding Activity\OddEven\Debug\OddEven.vcxproj.GenerateResource.cache
+D:\DATA COLLECTION\DOCUMENTS\BSIT CODING\C++ LANGUAGE\BSIT 1-1\Coding Activity\OddEven\Debug\OddEven.exe

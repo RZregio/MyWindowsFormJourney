@@ -1,0 +1,7 @@
+﻿  SCalc.cpp
+D:\DATA COLLECTION\DOCUMENTS\BSIT CODING\C++ LANGUAGE\BSIT 1-1\Coding Activity\SCacl\SCalc.cpp(6,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+D:\DATA COLLECTION\DOCUMENTS\BSIT CODING\C++ LANGUAGE\BSIT 1-1\Coding Activity\SCacl\SCalc.cpp(7,15): warning C4551: function call missing argument list
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  SCalc.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  SCacl.vcxproj -> D:\DATA COLLECTION\DOCUMENTS\BSIT CODING\C++ LANGUAGE\BSIT 1-1\Coding Activity\SCacl\Debug\SCacl.exe

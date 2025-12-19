@@ -1,0 +1,5 @@
+﻿  ChangeCTF.cpp
+D:\DATA COLLECTION\DOCUMENTS\BSIT CODING\C++ LANGUAGE\BSIT 1-1\Coding Activity\ChangeCTF\ChangeCTF.h(346,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\DATA COLLECTION\DOCUMENTS\BSIT CODING\C++ LANGUAGE\BSIT 1-1\Coding Activity\ChangeCTF\ChangeCTF.cpp(5,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  ChangeCTF.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  ChangeCTF.vcxproj -> D:\DATA COLLECTION\DOCUMENTS\BSIT CODING\C++ LANGUAGE\BSIT 1-1\Coding Activity\ChangeCTF\Debug\ChangeCTF.exe

@@ -1,0 +1,4 @@
+D:\DATA COLLECTION\DOCUMENTS\BSIT CODING\C++ LANGUAGE\BSIT 1-1\Coding Activity\SCacl\Debug\SCacl.vcxproj.AssemblyReference.cache
+D:\DATA COLLECTION\DOCUMENTS\BSIT CODING\C++ LANGUAGE\BSIT 1-1\Coding Activity\SCacl\Debug\SCacl.SCalc.resources
+D:\DATA COLLECTION\DOCUMENTS\BSIT CODING\C++ LANGUAGE\BSIT 1-1\Coding Activity\SCacl\Debug\SCacl.vcxproj.GenerateResource.cache
+D:\DATA COLLECTION\DOCUMENTS\BSIT CODING\C++ LANGUAGE\BSIT 1-1\Coding Activity\SCacl\Debug\SCacl.exe

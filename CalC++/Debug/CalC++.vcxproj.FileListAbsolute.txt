@@ -1,0 +1,40 @@
+D:\DATA COLLECTION\DOCUMENTS\BSIT CODING\C++ LANGUAGE\BSIT 1-1\Coding Activity\CalC++\Debug\CalC.Home.resources
+D:\DATA COLLECTION\DOCUMENTS\BSIT CODING\C++ LANGUAGE\BSIT 1-1\Coding Activity\CalC++\Debug\CalC++.vcxproj.GenerateResource.cache
+D:\DATA COLLECTION\DOCUMENTS\BSIT CODING\C++ LANGUAGE\BSIT 1-1\Coding Activity\CalC++\Debug\CalC.SC.resources
+D:\DATA COLLECTION\DOCUMENTS\BSIT CODING\C++ LANGUAGE\BSIT 1-1\Coding Activity\CalC++\Debug\CalC++.vcxproj.AssemblyReference.cache
+D:\DATA COLLECTION\DOCUMENTS\BSIT CODING\C++ LANGUAGE\BSIT 1-1\Coding Activity\CalC++\Debug\CMAThings.exe
+D:\DATA COLLECTION\SP DATA\New Arrival\CalC++\CalC++\Debug\CalC++.vcxproj.AssemblyReference.cache
+D:\DATA COLLECTION\SP DATA\New Arrival\CalC++\CalC++\Debug\CalC.Home.resources
+D:\DATA COLLECTION\SP DATA\New Arrival\CalC++\CalC++\Debug\CalC.SC.resources
+D:\DATA COLLECTION\SP DATA\New Arrival\CalC++\CalC++\Debug\CalC++.vcxproj.GenerateResource.cache
+D:\DATA COLLECTION\SP DATA\New Arrival\CalC++\CalC++\Debug\CMAThings.exe
+D:\DATA COLLECTION\SP DATA\New Arrival\CalC++\CalC++\Debug\CalC.Trigo.resources
+D:\DATA COLLECTION\SP DATA\New Arrival\CalC++\CalC++\Debug\CalC.About.resources
+D:\DATA COLLECTION\SP DATA\New Arrival\CalC++\CalC++\Debug\CalC.Geo.resources
+D:\DATA COLLECTION\SP DATA\New Arrival\CalC++\CalC++\Debug\CalC.Metric.resources
+D:\DATA COLLECTION\SP DATA\New Arrival\CalC++\CalC++\Debug\CalC.Temp.resources
+D:\DATA COLLECTION\SP DATA\New Arrival\Backup\CalC++\Debug\CalC++.vcxproj.AssemblyReference.cache
+D:\DATA COLLECTION\SP DATA\New Arrival\Backup\CalC++\Debug\CalC.About.resources
+D:\DATA COLLECTION\SP DATA\New Arrival\Backup\CalC++\Debug\CalC.Geo.resources
+D:\DATA COLLECTION\SP DATA\New Arrival\Backup\CalC++\Debug\CalC.Home.resources
+D:\DATA COLLECTION\SP DATA\New Arrival\Backup\CalC++\Debug\CalC.Metric.resources
+D:\DATA COLLECTION\SP DATA\New Arrival\Backup\CalC++\Debug\CalC.SC.resources
+D:\DATA COLLECTION\SP DATA\New Arrival\Backup\CalC++\Debug\CalC.Temp.resources
+D:\DATA COLLECTION\SP DATA\New Arrival\Backup\CalC++\Debug\CalC.Trigo.resources
+D:\DATA COLLECTION\SP DATA\New Arrival\Backup\CalC++\Debug\CalC++.vcxproj.GenerateResource.cache
+D:\DATA COLLECTION\SP DATA\New Arrival\Backup\CalC++\Debug\CMAThings.exe
+D:\DATA COLLECTION\SP DATA\New Arrival\CalC++\Debug\CalC++.vcxproj.AssemblyReference.cache
+D:\DATA COLLECTION\SP DATA\New Arrival\CalC++\Debug\CalC.About.resources
+D:\DATA COLLECTION\SP DATA\New Arrival\CalC++\Debug\CalC.Geo.resources
+D:\DATA COLLECTION\SP DATA\New Arrival\CalC++\Debug\CalC.Home.resources
+D:\DATA COLLECTION\SP DATA\New Arrival\CalC++\Debug\CalC.Metric.resources
+D:\DATA COLLECTION\SP DATA\New Arrival\CalC++\Debug\CalC.SC.resources
+D:\DATA COLLECTION\SP DATA\New Arrival\CalC++\Debug\CalC.Temp.resources
+D:\DATA COLLECTION\SP DATA\New Arrival\CalC++\Debug\CalC.Trigo.resources
+D:\DATA COLLECTION\SP DATA\New Arrival\CalC++\Debug\CalC++.vcxproj.GenerateResource.cache
+D:\DATA COLLECTION\SP DATA\New Arrival\CalC++\Debug\CMAThings.exe
+D:\DATA COLLECTION\DOCUMENTS\BSIT CODING\C++ LANGUAGE\BSIT 1-1\Coding Activity\CalC++\Debug\CalC.About.resources
+D:\DATA COLLECTION\DOCUMENTS\BSIT CODING\C++ LANGUAGE\BSIT 1-1\Coding Activity\CalC++\Debug\CalC.Geo.resources
+D:\DATA COLLECTION\DOCUMENTS\BSIT CODING\C++ LANGUAGE\BSIT 1-1\Coding Activity\CalC++\Debug\CalC.Metric.resources
+D:\DATA COLLECTION\DOCUMENTS\BSIT CODING\C++ LANGUAGE\BSIT 1-1\Coding Activity\CalC++\Debug\CalC.Temp.resources
+D:\DATA COLLECTION\DOCUMENTS\BSIT CODING\C++ LANGUAGE\BSIT 1-1\Coding Activity\CalC++\Debug\CalC.Trigo.resources

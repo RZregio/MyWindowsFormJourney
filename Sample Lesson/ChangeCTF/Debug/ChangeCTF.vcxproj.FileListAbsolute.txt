@@ -1,0 +1,4 @@
+D:\DATA COLLECTION\DOCUMENTS\BSIT CODING\C++ LANGUAGE\BSIT 1-1\Coding Activity\ChangeCTF\Debug\ChangeCTF.vcxproj.AssemblyReference.cache
+D:\DATA COLLECTION\DOCUMENTS\BSIT CODING\C++ LANGUAGE\BSIT 1-1\Coding Activity\ChangeCTF\Debug\ChangeCTF.ChangeCTF.resources
+D:\DATA COLLECTION\DOCUMENTS\BSIT CODING\C++ LANGUAGE\BSIT 1-1\Coding Activity\ChangeCTF\Debug\ChangeCTF.vcxproj.GenerateResource.cache
+D:\DATA COLLECTION\DOCUMENTS\BSIT CODING\C++ LANGUAGE\BSIT 1-1\Coding Activity\ChangeCTF\Debug\ChangeCTF.exe

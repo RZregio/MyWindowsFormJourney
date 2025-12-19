@@ -1,0 +1,5 @@
+﻿  Dlicense.cpp
+D:\DATA COLLECTION\DOCUMENTS\BSIT CODING\C++ LANGUAGE\BSIT 1-1\Coding Activity\DLicense\Dlicense.cpp(6,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+D:\DATA COLLECTION\DOCUMENTS\BSIT CODING\C++ LANGUAGE\BSIT 1-1\Coding Activity\DLicense\Dlicense.cpp(7,15): warning C4551: function call missing argument list
+  Dlicense.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  DLicense.vcxproj -> D:\DATA COLLECTION\DOCUMENTS\BSIT CODING\C++ LANGUAGE\BSIT 1-1\Coding Activity\DLicense\Debug\DLicense.exe

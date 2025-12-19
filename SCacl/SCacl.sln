@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SCacl", "SCacl.vcxproj", "{7BE12968-BABC-4DD1-BD02-0C60A101E5A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BE12968-BABC-4DD1-BD02-0C60A101E5A6}.Debug|x64.ActiveCfg = Debug|x64
+		{7BE12968-BABC-4DD1-BD02-0C60A101E5A6}.Debug|x64.Build.0 = Debug|x64
+		{7BE12968-BABC-4DD1-BD02-0C60A101E5A6}.Debug|x86.ActiveCfg = Debug|Win32
+		{7BE12968-BABC-4DD1-BD02-0C60A101E5A6}.Debug|x86.Build.0 = Debug|Win32
+		{7BE12968-BABC-4DD1-BD02-0C60A101E5A6}.Release|x64.ActiveCfg = Release|x64
+		{7BE12968-BABC-4DD1-BD02-0C60A101E5A6}.Release|x64.Build.0 = Release|x64
+		{7BE12968-BABC-4DD1-BD02-0C60A101E5A6}.Release|x86.ActiveCfg = Release|Win32
+		{7BE12968-BABC-4DD1-BD02-0C60A101E5A6}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C0236E8-3634-427E-8D79-5F24264E8527}
+	EndGlobalSection
+EndGlobal

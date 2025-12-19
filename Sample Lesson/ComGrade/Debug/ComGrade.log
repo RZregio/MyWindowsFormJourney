@@ -1,0 +1,5 @@
+﻿  ComGrade.cpp
+D:\DATA COLLECTION\DOCUMENTS\BSIT CODING\C++ LANGUAGE\BSIT 1-1\Coding Activity\ComGrade\ComGrade.cpp(6,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+D:\DATA COLLECTION\DOCUMENTS\BSIT CODING\C++ LANGUAGE\BSIT 1-1\Coding Activity\ComGrade\ComGrade.cpp(7,15): warning C4551: function call missing argument list
+  ComGrade.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  ComGrade.vcxproj -> D:\DATA COLLECTION\DOCUMENTS\BSIT CODING\C++ LANGUAGE\BSIT 1-1\Coding Activity\ComGrade\Debug\ComGrade.exe

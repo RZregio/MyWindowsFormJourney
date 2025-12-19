@@ -1,0 +1,4 @@
+D:\DATA COLLECTION\DOCUMENTS\BSIT CODING\C++ LANGUAGE\BSIT 1-1\Coding Activity\ColoredMSG\Debug\ColoredMSG.vcxproj.AssemblyReference.cache
+D:\DATA COLLECTION\DOCUMENTS\BSIT CODING\C++ LANGUAGE\BSIT 1-1\Coding Activity\ColoredMSG\Debug\ColoredMSG.ColoredMSG.resources
+D:\DATA COLLECTION\DOCUMENTS\BSIT CODING\C++ LANGUAGE\BSIT 1-1\Coding Activity\ColoredMSG\Debug\ColoredMSG.vcxproj.GenerateResource.cache
+D:\DATA COLLECTION\DOCUMENTS\BSIT CODING\C++ LANGUAGE\BSIT 1-1\Coding Activity\ColoredMSG\Debug\ColoredMSG.exe

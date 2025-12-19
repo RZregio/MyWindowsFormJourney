@@ -1,0 +1,5 @@
+﻿  Passwrd.cpp
+D:\DATA COLLECTION\DOCUMENTS\BSIT CODING\C++ LANGUAGE\BSIT 1-1\Coding Activity\PASSWRD\Passwrd.cpp(7,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+D:\DATA COLLECTION\DOCUMENTS\BSIT CODING\C++ LANGUAGE\BSIT 1-1\Coding Activity\PASSWRD\Passwrd.cpp(8,15): warning C4551: function call missing argument list
+  Passwrd.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  PASSWRD.vcxproj -> D:\DATA COLLECTION\DOCUMENTS\BSIT CODING\C++ LANGUAGE\BSIT 1-1\Coding Activity\PASSWRD\Debug\PASSWRD.exe

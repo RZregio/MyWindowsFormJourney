@@ -1,0 +1,31 @@
+﻿  Home.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+D:\DATA COLLECTION\PROGRAMMING DOCUMENTS\C++ DATA\BSIT 1-1\Coding Activity\CalC++\SC.h(739,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Home.cpp')
+  
+D:\DATA COLLECTION\PROGRAMMING DOCUMENTS\C++ DATA\BSIT 1-1\Coding Activity\CalC++\SC.h(739,15): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Home.cpp')
+  
+D:\DATA COLLECTION\PROGRAMMING DOCUMENTS\C++ DATA\BSIT 1-1\Coding Activity\CalC++\Trigo.h(504,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Home.cpp')
+  
+D:\DATA COLLECTION\PROGRAMMING DOCUMENTS\C++ DATA\BSIT 1-1\Coding Activity\CalC++\Trigo.h(509,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Home.cpp')
+  
+D:\DATA COLLECTION\PROGRAMMING DOCUMENTS\C++ DATA\BSIT 1-1\Coding Activity\CalC++\Trigo.h(514,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Home.cpp')
+  
+D:\DATA COLLECTION\PROGRAMMING DOCUMENTS\C++ DATA\BSIT 1-1\Coding Activity\CalC++\Trigo.h(519,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Home.cpp')
+  
+D:\DATA COLLECTION\PROGRAMMING DOCUMENTS\C++ DATA\BSIT 1-1\Coding Activity\CalC++\Trigo.h(524,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Home.cpp')
+  
+D:\DATA COLLECTION\PROGRAMMING DOCUMENTS\C++ DATA\BSIT 1-1\Coding Activity\CalC++\Trigo.h(529,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Home.cpp')
+  
+D:\DATA COLLECTION\PROGRAMMING DOCUMENTS\C++ DATA\BSIT 1-1\Coding Activity\CalC++\Home.cpp(6,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+D:\DATA COLLECTION\PROGRAMMING DOCUMENTS\C++ DATA\BSIT 1-1\Coding Activity\CalC++\Home.cpp(7,15): warning C4551: function call missing argument list
+  Generating Code...
+  Home.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  CalC++.vcxproj -> D:\DATA COLLECTION\PROGRAMMING DOCUMENTS\C++ DATA\BSIT 1-1\Coding Activity\CalC++\x64\Debug\CMAThings.exe
